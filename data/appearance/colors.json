@@ -1,0 +1,19 @@
+{
+  "parameter": "color",
+  "type": "range",
+  "values": [
+    "straw",
+    "yellow",
+    "gold",
+    "amber",
+    "deep_amber",
+    "light_copper",
+    "copper",
+    "deep_copper",
+    "light_brown",
+    "brown",
+    "dark_brown",
+    "very_dark_brown",
+    "black"
+  ]
+}
