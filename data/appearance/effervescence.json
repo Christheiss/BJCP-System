@@ -1,0 +1,14 @@
+{
+  "parameter": "effervescence",
+  "type": "range",
+  "values": [
+    "flat",
+    "low",
+    "low_to_medium",
+    "medium",
+    "medium_to_high",
+    "high",
+    "very_high",
+    "effervescent"
+  ]
+}
