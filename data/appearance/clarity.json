@@ -1,0 +1,13 @@
+{
+  "parameter": "clarity",
+  "type": "range",
+  "values": [
+    "brilliant",
+    "clear",
+    "quite_clear",
+    "slightly_hazy",
+    "somewhat_hazy",
+    "hazy",
+    "cloudy"
+  ]
+}
