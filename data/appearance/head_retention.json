@@ -1,0 +1,13 @@
+{
+  "parameter": "head_retention",
+  "type": "range",
+  "values": [
+    "none",
+    "poor",
+    "fair",
+    "average",
+    "good",
+    "very_good",
+    "excellent"
+  ]
+}
