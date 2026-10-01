@@ -1,19 +1,77 @@
 {
   "parameter": "color",
   "type": "range",
-  "values": [
-    "straw",
-    "yellow",
-    "gold",
-    "amber",
-    "deep_amber",
-    "light_copper",
-    "copper",
-    "deep_copper",
-    "light_brown",
-    "brown",
-    "dark_brown",
-    "very_dark_brown",
-    "black"
+  "unit": "SRM",
+  "reference": [
+    {
+      "name": "straw",
+      "min_srm": 2,
+      "max_srm": 3
+    },
+    {
+      "name": "yellow",
+      "min_srm": 3,
+      "max_srm": 4
+    },
+    {
+      "name": "gold",
+      "min_srm": 5,
+      "max_srm": 6
+    },
+    {
+      "name": "amber",
+      "min_srm": 6,
+      "max_srm": 9
+    },
+    {
+      "name": "deep_amber",
+      "min_srm": 10,
+      "max_srm": 14
+    },
+    {
+      "name": "light_copper",
+      "min_srm": 10,
+      "max_srm": 14
+    },
+    {
+      "name": "copper",
+      "min_srm": 14,
+      "max_srm": 17
+    },
+    {
+      "name": "deep_copper",
+      "min_srm": 17,
+      "max_srm": 18
+    },
+    {
+      "name": "light_brown",
+      "min_srm": 17,
+      "max_srm": 18
+    },
+    {
+      "name": "brown",
+      "min_srm": 19,
+      "max_srm": 22
+    },
+    {
+      "name": "dark_brown",
+      "min_srm": 22,
+      "max_srm": 30
+    },
+    {
+      "name": "very_dark_brown",
+      "min_srm": 30,
+      "max_srm": 35
+    },
+    {
+      "name": "black",
+      "min_srm": 30,
+      "max_srm": null
+    },
+    {
+      "name": "black_opaque",
+      "min_srm": 40,
+      "max_srm": null
+    }
   ]
 }
