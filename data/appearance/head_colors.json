@@ -1,0 +1,12 @@
+{
+  "parameter": "head_color",
+  "type": "range",
+  "values": [
+    "white",
+    "off_white",
+    "ivory",
+    "light_tan",
+    "tan",
+    "brown"
+  ]
+}
