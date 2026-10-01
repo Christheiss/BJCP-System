@@ -1,0 +1,14 @@
+{
+  "parameter": "head_amount",
+  "type": "range",
+  "values": [
+    "none",
+    "very_low",
+    "low",
+    "low_to_medium",
+    "medium",
+    "medium_to_high",
+    "high",
+    "very_high"
+  ]
+}
